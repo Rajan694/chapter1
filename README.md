@@ -1,9 +1,21 @@
+[Link 1](https://www.example.com)
+
+[link2](www.google.com)
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Row 1    | Cell 2   | Cell 3   |
+| Row 2    | Cell 5   | Cell 6   |
+
+
 # header 1
 ## header 2
 
 this is **bold** txt.
 
+
 this is __bold__ txt.
+
 
 this is *italic* txt.
 
@@ -31,3 +43,6 @@ this is ~~strikethrough~~ txt.
 this is bold txt.
 
 this is bold txt.
+
+
+
